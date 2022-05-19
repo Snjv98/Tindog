@@ -149,4 +149,8 @@ body {
     position: static;
     transform: rotate(0);
   }
+    .nav-item{
+    display: flex;
+    justify-content: left;
+  }
 }
